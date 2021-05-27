@@ -1,3 +1,7 @@
 Primera tarea de c++
 PUCESE
 Esmeraldas, 20 de mayo de 2021
+
+En esta asignatura, nos toca realizar una tarea
+de investigación formativa
+
